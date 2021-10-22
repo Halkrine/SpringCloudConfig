@@ -1,2 +1,2 @@
 test:
-  common: application-common.yml
+  hello: application-common.yml
